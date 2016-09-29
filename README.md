@@ -1,6 +1,6 @@
 # Corporate Dashboard
 
-
+<img src="https://github.com/marxtseng/corporate-dashboard/blob/master/Corporate%20Dashboard.png"/>
 
 ## Install the Polymer-CLI
 
